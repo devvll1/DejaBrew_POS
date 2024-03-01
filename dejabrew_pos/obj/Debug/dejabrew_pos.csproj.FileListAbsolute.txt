@@ -1,0 +1,366 @@
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe.config
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.pdb
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.dll
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\Guna.UI2.dll
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.dll
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.dll
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.dll
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.xml
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.xml
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.xml
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.xml
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.AssemblyReference.cache
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Properties.Resources.resources
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.GenerateResource.cache
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CoreCompileInputs.cache
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CopyComplete
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.exe
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.pdb
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.frmLogin.resources
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmDashboard.resources
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmOrder.resources
+C:\Users\Vincent M\source\repos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmInventory.resources
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.exe
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.pdb
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe.config
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.pdb
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Guna.UI2.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmDashboard.resources
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmInventory.resources
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.frmLogIn.resources
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmOrder.resources
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Properties.Resources.resources
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CopyComplete
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmSale.resources
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe.config
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.pdb
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Guna.UI2.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.xml
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.xml
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.xml
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.xml
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.AssemblyReference.cache
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmDashboard.resources
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmInventory.resources
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.frmLogIn.resources
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmOrder.resources
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmSale.resources
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Properties.Resources.resources
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.GenerateResource.cache
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CoreCompileInputs.cache
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CopyComplete
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.exe
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.pdb
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Vincent M\Desktop\New folder\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmPrintOrder.resources
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.exe
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.pdb
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe.config
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.pdb
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Guna.UI2.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.xml
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.xml
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.xml
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmDashboard.resources
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmInventory.resources
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.frmLogIn.resources
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmOrder.resources
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmPrintOrder.resources
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmSale.resources
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Properties.Resources.resources
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\RdlCompile.cache
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\RdlCompile.compiled
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CopyComplete
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe.config
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.pdb
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Guna.UI2.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.AssemblyReference.cache
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmDashboard.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmInventory.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.frmLogIn.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmOrder.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmPrintOrder.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmSale.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Properties.Resources.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.GenerateResource.cache
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CoreCompileInputs.cache
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CopyComplete
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.exe
+C:\Users\Vincent M\Desktop\dejabrew_pos (1)\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.pdb
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.exe
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.pdb
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe.config
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.pdb
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Guna.UI2.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmDashboard.resources
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmInventory.resources
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.frmLogIn.resources
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmOrder.resources
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmPrintOrder.resources
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmSale.resources
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Properties.Resources.resources
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\RdlCompile.cache
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\RdlCompile.compiled
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CopyComplete
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe.config
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.pdb
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Guna.UI2.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.AssemblyReference.cache
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmDashboard.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmInventory.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.frmLogIn.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmOrder.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmPrintOrder.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmSale.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Properties.Resources.resources
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.GenerateResource.cache
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CoreCompileInputs.cache
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CopyComplete
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.exe
+C:\Users\Vincent M\Desktop\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.pdb
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe.config
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.exe
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\dejabrew_pos.pdb
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\Guna.UI2.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\Google.Protobuf.xml
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\MySql.Data.xml
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\System.Buffers.xml
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\System.Memory.xml
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.AssemblyReference.cache
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmDashboard.resources
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmInventory.resources
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.frmLogIn.resources
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmOrder.resources
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmPrintOrder.resources
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Forms.frmSale.resources
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.Properties.Resources.resources
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.GenerateResource.cache
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CoreCompileInputs.cache
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.csproj.CopyComplete
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.exe
+C:\Users\Vincent M\Desktop\Dave\dejabrew_pos\dejabrew_pos\obj\Debug\dejabrew_pos.pdb
